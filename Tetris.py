@@ -1,5 +1,6 @@
 # Tetris
-# An interactive tetris game.
+# @Author: Shijie Wang
+# @Email: Shijiew21@gmail.com
 
 from tkinter import *
 import math
